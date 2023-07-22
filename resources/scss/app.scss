@@ -76,6 +76,7 @@ header {
 
 .group {
     background-color: #0282F9;
+    width: 100%;
 
     ul {
         margin: 0 auto;
@@ -101,6 +102,32 @@ header {
                     color: white;
                 }
             }
+        }
+    }
+}
+
+.dc-back {
+    width: 100%;
+    background-image: url('../img/footer-bg.jpg');
+
+    .pos-rel {
+        position: relative;
+
+        li,
+        p {
+            font-size: 12px;
+        }
+
+
+        .bg-comics img {
+            width: 450px;
+            position: absolute;
+            z-index: 1;
+            right: 8%;
+            top: 40%;
+            transform: translate(-8%, -40%);
+            object-fit: fill;
+
         }
     }
 }
