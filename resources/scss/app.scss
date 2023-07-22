@@ -24,6 +24,12 @@ header {
 
     li {
         margin: 0 10px;
+
+        &:hover {
+            color: #0282F9;
+            border-bottom: 3px solid #0282F9;
+            padding-bottom: 27px;
+        }
     }
 
     .size {
