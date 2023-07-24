@@ -1,20 +1,20 @@
 <div class="back">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 d-flex justify-content-end text-light">
-                <div class="px-5">
-                    DC POWER™ VISA®
-                </div>
-                <div class="dropdown">
-                    <button class="btn dropdown-toggle p-0 text-light" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        ADDITIONAL DC SITES
-                    </button>
+        <div class="container">
+            <div class="row">
+                <div class="col-12 d-flex justify-content-end text-light">
+                    <div class="px-5">
+                        DC POWER™ VISA®
+                    </div>
+                    <div class="dropdown">
+                        <button class="btn dropdown-toggle p-0 text-light" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            ADDITIONAL DC SITES
+                        </button>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
-<header> 
+<header>
     <div class="container">
         <div class="row">
             <div class="col-12 d-flex justify-content-between">
