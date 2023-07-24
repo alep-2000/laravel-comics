@@ -16,11 +16,6 @@
 
 <body>
     @include('partials.header')
-    <div class="jumbotron">
-        <div>
-            <strong>CURRENT SERIES</strong>
-        </div>
-    </div>
     <main class="bg-dark">
         @yield('content')
     </main>

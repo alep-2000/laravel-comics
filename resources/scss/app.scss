@@ -167,3 +167,43 @@ header {
 
 
 }
+
+
+.pos {
+    position: relative;
+
+    .current img {
+        width: 160px;
+        position: absolute;
+        left: 23%;
+        top: 100%;
+        transform: translate(-23%, -100%);
+    }
+}
+
+
+
+.bg-white h1 {
+    font-size: 25px;
+
+}
+
+.ma-left {
+    margin-left: 80px;
+}
+
+.space {
+    margin: 50px 0;
+}
+
+.back-green {
+    background-color: #55BA59;
+
+    .color {
+        color: #80DF82;
+    }
+}
+
+.center {
+    margin-left: 170px;
+}
