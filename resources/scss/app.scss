@@ -207,3 +207,15 @@ header {
 .center {
     margin-left: 170px;
 }
+
+.back-grey {
+    background-color: #F6F6F6;
+    position: relative;
+    z-index: 3;
+
+}
+
+.bor-bot {
+    border-bottom: 1px solid grey;
+    width: 400px;
+}
